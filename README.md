@@ -5,7 +5,7 @@
 - 📫 How to reach me at paranjayreddy133@gmail.com
 - 😄 Pronouns: paranjay, pandu
 - ⚡ Fun fact: logical reasoning is a cool things which makes us think for multiple possiblities
-- My greatest motivation to join the Full stack web dev would be ###Sheryians coding school###
+- My greatest motivation to join the Full stack web dev would be ###**Sheryians coding school**###
 
 <!---
 Paranjay-pandu/Paranjay-pandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
